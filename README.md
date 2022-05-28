@@ -2,6 +2,6 @@
 
 👀 I’m interested in data analytics and visualization
 
-🌱 I’m currently learning Python and SQL
+🌱 I’m currently learning Python
 
 👩‍🎓 MSc in Business from BI Norwegian Business School
